@@ -2,9 +2,12 @@
 
 This repository contains the KiCad schematic and PCB hardware design for the Fuel Cell Controller developed by **Lab-FuelCell-ITS**. The project includes complete KiCad source files, symbol/footprint libraries, and backups used for designing, modifying, and fabricating the controller board.
 
-<img width="1049" height="713" alt="{BA82DBBF-16C6-43F1-AAF5-F1074114E6D2}" src="https://github.com/user-attachments/assets/8fef73a0-f4a1-47a8-a998-3048bcc98810" />
-<img width="1056" height="700" alt="{CD6223DB-963B-4A11-8DCC-30DFFEBB6A86}" src="https://github.com/user-attachments/assets/9b73dac4-e640-4459-982e-8afceb8b78d7" />
-
+<!-- <img width="1049" height="713" alt="{BA82DBBF-16C6-43F1-AAF5-F1074114E6D2}" src="https://github.com/user-attachments/assets/8fef73a0-f4a1-47a8-a998-3048bcc98810" />
+<img width="1056" height="700" alt="{CD6223DB-963B-4A11-8DCC-30DFFEBB6A86}" src="https://github.com/user-attachments/assets/9b73dac4-e640-4459-982e-8afceb8b78d7" /> -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8fef73a0-f4a1-47a8-a998-3048bcc98810" height="400">
+  <img src="https://github.com/user-attachments/assets/9b73dac4-e640-4459-982e-8afceb8b78d7" height="400">
+</p>
 ---
 
 ## Features
